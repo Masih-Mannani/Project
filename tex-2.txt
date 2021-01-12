@@ -1,2 +1,5 @@
-Remove file from stage
+Remove file from stage:
 $ git rm --cached <file>
+
+Remove all files from stage:
+$ git rm --cached -r .
