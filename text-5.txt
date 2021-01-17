@@ -1,0 +1,11 @@
+$ git branch <name>  or  $ git checkout -b <name>
+ایجاد یک شاخه یا ورژن دیگر برای پروژه
+
+$ git branch -a
+مشاهده تمام شاخه های پروژه
+
+$ git checkout <name>
+سوئیچ کردن روی شاخه ی دلخواه
+
+$ git checkout -d <name>
+حذف شاخه دلخواه به شرطی که روی آن شاخه نباشیم
