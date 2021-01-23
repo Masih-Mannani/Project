@@ -1,6 +1,4 @@
 node-modules/
 
 *.txt
-!text-7.txt
-
-about.html
+!text-8.txt
