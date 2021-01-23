@@ -1,0 +1,11 @@
+$ git remote an origin https://github.com/Masih-Mannani/project.git
+ایجاد یک ریموت و اسم برای آن که در اینجا اوریجین هست.
+
+$ git remote
+لیست ریموت های ایجاد شده 
+
+$ git push -u <اسم ریپزتوری مثلا اوریجین> <Esme shakhe mesle master ya Develop>
+اضافه کردن شاخه به ریپزتوری
+
+$ git push
+اضافه کردن تغییرات مثل کامیت های ایجاد شده به آخرین ریپزتوری که باهاش کار میکردیم
